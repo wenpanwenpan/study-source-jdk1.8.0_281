@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="840757a4-f9ac-469a-a4b0-3cfb4f8f2b12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../CodeSoftware/Idea/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../CodeSoftware/Idea/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bZ8Przm8Z8TNwwMghifSRkLFam" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/jdk1.8.0_202-source" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.study.source.jdk.Test" />
+      <module name="tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.study.source.jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="study-source-jdk1.8.0_281" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="study-source-jdk1.8.0_281" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="840757a4-f9ac-469a-a4b0-3cfb4f8f2b12" name="Default Changelist" comment="" />
+      <created>1706411219877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706411219877</updated>
+      <workItem from="1706411225210" duration="667000" />
+      <workItem from="1706411905977" duration="671000" />
+      <workItem from="1706412705904" duration="1389000" />
+      <workItem from="1706414212319" duration="1456000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="391" key="GridCell.Tab.0.bottom" timestamp="1706415667597">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1706415667597" />
+    <state width="1750" height="391" key="GridCell.Tab.0.center" timestamp="1706415667596">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1706415667596" />
+    <state width="1750" height="391" key="GridCell.Tab.0.left" timestamp="1706415667595">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1706415667595" />
+    <state width="1750" height="391" key="GridCell.Tab.0.right" timestamp="1706415667597">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1706415667597" />
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom" timestamp="1706415667601">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1706415667601" />
+    <state width="1750" height="391" key="GridCell.Tab.1.center" timestamp="1706415667599">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1706415667599" />
+    <state width="1750" height="391" key="GridCell.Tab.1.left" timestamp="1706415667598">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1706415667598" />
+    <state width="1750" height="391" key="GridCell.Tab.1.right" timestamp="1706415667600">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1706415667600" />
+    <state x="184" y="163" width="1318" height="834" key="SettingsEditor" timestamp="1706415260615">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="184" y="163" width="1318" height="834" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1706415260615" />
+    <state x="273" y="260" key="new project wizard" timestamp="1706414140309">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="273" y="260" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1706414140309" />
+    <state x="561" y="222" width="670" height="676" key="search.everywhere.popup" timestamp="1706413110335">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="561" y="222" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1706413110335" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/src/main/java/org/study/source/jdk/Test.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jdk1.8.0_281-source/src/java/util/HashMap.java</url>
+          <line>642</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/jdk1.8.0_281-source/src/java/util/HashMap.java</url>
+          <line>662</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
